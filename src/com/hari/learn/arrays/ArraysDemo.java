@@ -11,15 +11,17 @@ public class ArraysDemo {
 
         for (int i = 0; i < arr.length; i++) {
             if (i == 0) {
-                arr[i] = 10;
+                arr[i] = 2;
             } else {
                 arr[i] = (i + 1) * 10;
             }
 
         }
         System.out.println("For loop");
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println("index :" + i + " value is: " + arr[i]);
+        for (int i = 0; i < arr.length; i++)
+        {
+
+                System.out.println("index :" + i + " value is: " + arr[i]);
         }
 
         //for each
