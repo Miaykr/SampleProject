@@ -1,4 +1,4 @@
-package com.hari.learn.collections;
+package com.hari.learn.collections.map;
 
 import java.util.*;
 

@@ -1,6 +1,5 @@
 package com.hari.learn.exceptions.unchecked;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 public class NullPointerExceptionDemo {
     public static void main(String[] args) {
